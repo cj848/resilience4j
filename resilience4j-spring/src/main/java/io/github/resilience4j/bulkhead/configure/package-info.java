@@ -18,7 +18,7 @@
  */
 @NonNullApi
 @NonNullFields
-package io.github.resilience4j.ratpack.adapter;
+package io.github.resilience4j.bulkhead.configure;
 
 import io.github.resilience4j.core.lang.NonNullApi;
 import io.github.resilience4j.core.lang.NonNullFields;
